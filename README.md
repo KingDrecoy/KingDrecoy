@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingDrecoy
 - 👀 I’m interested in learning programming and data analysis
 - 🌱 I’m currently learning java and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything intresting
 - 📫 How to reach me: Oreoluwayimika@gmail.com
 
 <!---
